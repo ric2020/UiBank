@@ -1,5 +1,5 @@
 {
-  "name": "UiBank Web Smoke Tests",
+  "name": "RIC Smoke Tests",
   "description": "A demo library to show capabilties of our CI/CD integration.",
   "main": "Create Account.xaml",
   "dependencies": {

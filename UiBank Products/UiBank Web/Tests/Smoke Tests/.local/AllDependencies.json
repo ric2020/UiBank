@@ -1198,15 +1198,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Emerald Koe\\.nuget\\packages\\": {}
+    "C:\\Users\\rickc\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "UiBank Web Smoke Tests",
       "projectName": "UiBank Web Smoke Tests",
-      "projectPath": "C:\\Emerald\\UiPath\\Projects\\CICD Integration\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local",
-      "packagesPath": "C:\\Users\\Emerald Koe\\.nuget\\packages\\",
-      "outputPath": "C:\\Emerald\\UiPath\\Projects\\CICD Integration\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local"
+      "projectPath": "C:\\Users\\rickc\\Documents\\UiPath\\UiBank\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local",
+      "packagesPath": "C:\\Users\\rickc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rickc\\Documents\\UiPath\\UiBank\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local"
     },
     "frameworks": {
       "net461": {
