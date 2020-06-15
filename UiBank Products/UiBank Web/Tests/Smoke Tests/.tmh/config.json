@@ -1,4 +1,7 @@
 {
-  "issueKeyTestcaseValues": {},
+  "issueKeyTestcaseValues": {
+    "cfb92788-88f9-40c7-9ee6-720a3db026a3": "0e8c0a10-3edf-4280-8025-08d7fb3d984b"
+  },
+  "testManagerBasePath": "https://tm-demo.uipath.com/",
   "testManagerInstanceType": "Server"
 }
