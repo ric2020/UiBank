@@ -35,7 +35,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "3f2f66c4-254a-4987-b1f5-715047881380",
         "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsApi.xaml"
       },
@@ -45,7 +45,7 @@
         "fileName": "TestCases\\Environment\\VerifyEndpoint.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "ff5cc4d8-634a-471f-bcf9-d8f8b8f4fe40",
         "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsUi.xaml"
       },

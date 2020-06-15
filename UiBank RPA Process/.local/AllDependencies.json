@@ -1753,9 +1753,9 @@
     "restore": {
       "projectUniqueName": "UiBank Overdrawn Accounts",
       "projectName": "UiBank Overdrawn Accounts",
-      "projectPath": "C:\\Emerald\\UiPath\\Projects\\RPA Testing\\UiBank RPA Process\\.local",
+      "projectPath": "C:\\Emerald\\UiPath\\Projects\\CI-CD Automation\\UiBank RPA Process\\.local",
       "packagesPath": "C:\\Users\\rick\\.nuget\\packages\\",
-      "outputPath": "C:\\Emerald\\UiPath\\Projects\\RPA Testing\\UiBank RPA Process\\.local"
+      "outputPath": "C:\\Emerald\\UiPath\\Projects\\CI-CD Automation\\UiBank RPA Process\\.local"
     },
     "frameworks": {
       "net461": {
