@@ -1,5 +1,5 @@
 {
-  "name": "UiBank Overdrawn Accounts",
+  "name": "UiBank Overdrawn Accounts CICD",
   "description": "This process collects overdrawn accounts from the UiBank Admin App.",
   "main": "Main.xaml",
   "dependencies": {
