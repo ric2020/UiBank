@@ -60,7 +60,7 @@
         "fileName": "TestCases\\Environment\\VerifyApiToken.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "895dddbf-2449-4c02-a911-c9f8cd99bc00",
         "fileName": "TestCases\\Login\\VerifyLogin.xaml"
       }
