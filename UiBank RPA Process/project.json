@@ -50,12 +50,12 @@
         "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsUi.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "e0981413-e3e4-4376-b404-8bb659dc9b00",
         "fileName": "TestCases\\Environment\\VerifyAssetsAreSet.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "48a379cc-96a2-4c6d-a857-5a9dae884160",
         "fileName": "TestCases\\Environment\\VerifyApiToken.xaml"
       },
