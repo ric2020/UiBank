@@ -1751,8 +1751,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "UiBank Overdrawn Accounts",
-      "projectName": "UiBank Overdrawn Accounts",
+      "projectUniqueName": "UiBank Overdrawn Accounts CICD",
+      "projectName": "UiBank Overdrawn Accounts CICD",
       "projectPath": "C:\\Emerald\\UiPath\\Projects\\CI-CD Automation\\UiBank RPA Process\\.local",
       "packagesPath": "C:\\Users\\rick\\.nuget\\packages\\",
       "outputPath": "C:\\Emerald\\UiPath\\Projects\\CI-CD Automation\\UiBank RPA Process\\.local"

@@ -40,34 +40,29 @@
         "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsApi.xaml"
       },
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "ff5cc4d8-634a-471f-bcf9-d8f8b8f4fe40",
-        "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsUi.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "e0981413-e3e4-4376-b404-8bb659dc9b00",
-        "fileName": "TestCases\\Environment\\VerifyAssetsAreSet.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "48a379cc-96a2-4c6d-a857-5a9dae884160",
-        "fileName": "TestCases\\Environment\\VerifyApiToken.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "895dddbf-2449-4c02-a911-c9f8cd99bc00",
-        "fileName": "TestCases\\Login\\VerifyLogin.xaml"
-      },
-      {
         "editingStatus": "Publishable",
         "testCaseId": "5e186ee4-8f79-4aae-940d-25a3740ac171",
         "fileName": "TestCases\\Environment\\EndPointCheck.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "f01afce8-55b8-4982-a176-febe2b94ccc6",
         "fileName": "TestCases\\Login\\LoginOK.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5b4c9cfa-65af-4173-bb0b-991b3f045f53",
+        "fileName": "TestCases\\Environment\\APITokenCheck.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "49869fb1-a77e-480a-82db-296370b770f6",
+        "fileName": "TestCases\\Environment\\AssestsCheck.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "63b67b6c-c447-4e2b-a21d-38f6c8f4c40f",
+        "fileName": "TestCases\\NegativeAccountsProcess\\NegativeAccountsUICheck.xaml"
       }
     ]
   },
