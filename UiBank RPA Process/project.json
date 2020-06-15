@@ -40,7 +40,7 @@
         "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsApi.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "1682e286-9369-45fa-9bfd-730b0bb26370",
         "fileName": "TestCases\\Environment\\VerifyEndpoint.xaml"
       },
@@ -50,12 +50,12 @@
         "fileName": "TestCases\\NegativeAccountsProcess\\VerifyNegativeAccountsUi.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "e0981413-e3e4-4376-b404-8bb659dc9b00",
         "fileName": "TestCases\\Environment\\VerifyAssetsAreSet.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "48a379cc-96a2-4c6d-a857-5a9dae884160",
         "fileName": "TestCases\\Environment\\VerifyApiToken.xaml"
       },
@@ -63,6 +63,11 @@
         "editingStatus": "InProgress",
         "testCaseId": "895dddbf-2449-4c02-a911-c9f8cd99bc00",
         "fileName": "TestCases\\Login\\VerifyLogin.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5e186ee4-8f79-4aae-940d-25a3740ac171",
+        "fileName": "TestCases\\Environment\\EndPointCheck.xaml"
       }
     ]
   },
