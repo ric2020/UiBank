@@ -6,8 +6,7 @@ Just a demo repository for the UiBank.
 
 ## Contact
 
-- Emerald Koe Inc.
-- emerald.koe@gmail.com
+- rickcrosby@gmail.com
 
 ## Components
 
