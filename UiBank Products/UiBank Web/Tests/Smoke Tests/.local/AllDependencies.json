@@ -1204,9 +1204,9 @@
     "restore": {
       "projectUniqueName": "RIC Smoke Tests",
       "projectName": "RIC Smoke Tests",
-      "projectPath": "C:\\Emerald\\UiPath\\Projects\\CI-CD Automation\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local",
+      "projectPath": "C:\\RIC\\CI-CD Jenkins\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local",
       "packagesPath": "C:\\Users\\rick\\.nuget\\packages\\",
-      "outputPath": "C:\\Emerald\\UiPath\\Projects\\CI-CD Automation\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local"
+      "outputPath": "C:\\RIC\\CI-CD Jenkins\\UiBank Products\\UiBank Web\\Tests\\Smoke Tests\\.local"
     },
     "frameworks": {
       "net461": {
