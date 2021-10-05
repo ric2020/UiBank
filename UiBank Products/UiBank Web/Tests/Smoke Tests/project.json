@@ -3,14 +3,15 @@
   "description": "A demo library to show capabilties of our CI/CD integration.",
   "main": "Create Account.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[20.3.0-beta.798912]",
-    "UiPath.Testing.Activities": "[0.9.0-alpha.814040]",
-    "UiPath.UIAutomation.Activities": "[20.2.0-preview]"
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Testing.Activities": "[1.1.2]",
+    "UiPath.UIAutomation.Activities": "[20.4.2]"
   },
   "webServices": [],
+  "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.3.0.187",
-  "projectVersion": "7.2.1",
+  "projectVersion": "7.3.50496123",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -32,42 +33,42 @@
     "fileInfoCollection": [
       {
         "editingStatus": "Publishable",
-        "testCaseId": "cfb92788-88f9-40c7-9ee6-720a3db026a3",
+        "testCaseId": "cfb92788-88f9-40c7-9ee6-720a3db026a4",
         "fileName": "Create Account.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "1a7176cf-b42b-40df-b754-3f5edcb02174",
+        "testCaseId": "1a7176cf-b42b-40df-b754-3f5edcb02175",
         "fileName": "Create User.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "f69307b1-02c1-428a-b783-49261271d13d",
+        "testCaseId": "f69307b1-02c1-428a-b783-49261271d13e",
         "fileName": "Modify User Profile.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "4b0027c4-7e40-4347-a05a-46f9c401c533",
+        "testCaseId": "4b0027c4-7e40-4347-a05a-46f9c401c534",
         "fileName": "Perform Transaction.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "06e15ece-49dd-4064-83a2-8d8db3f1c0a0",
+        "testCaseId": "06e15ece-49dd-4064-83a2-8d8db3f1c0a1",
         "fileName": "Transfer Funds.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "a5e0220b-3e4f-441a-8f58-add7f71fee4b",
+        "testCaseId": "a5e0220b-3e4f-441a-8f58-add7f71fee4c",
         "fileName": "Reset Password.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "95276480-6983-4a09-b388-7e5094e851aa",
+        "testCaseId": "95276480-6983-4a09-b388-7e5094e851ab",
         "fileName": "Create Loan.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "02164474-ab42-44c8-979a-3d32f936c995",
+        "testCaseId": "02164474-ab42-44c8-979a-3d32f936c996",
         "fileName": "Register Administrator.xaml"
       }
     ]
@@ -80,49 +81,49 @@
   "entryPoints": [
     {
       "filePath": "Create Account.xaml",
-      "uniqueId": "cfb92788-88f9-40c7-9ee6-720a3db026a3",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Create Loan.xaml",
-      "uniqueId": "95276480-6983-4a09-b388-7e5094e851aa",
+      "uniqueId": "cfb92788-88f9-40c7-9ee6-720a3db026a4",
       "input": [],
       "output": []
     },
     {
       "filePath": "Create User.xaml",
-      "uniqueId": "1a7176cf-b42b-40df-b754-3f5edcb02174",
+      "uniqueId": "1a7176cf-b42b-40df-b754-3f5edcb02175",
       "input": [],
       "output": []
     },
     {
       "filePath": "Modify User Profile.xaml",
-      "uniqueId": "f69307b1-02c1-428a-b783-49261271d13d",
+      "uniqueId": "f69307b1-02c1-428a-b783-49261271d13e",
       "input": [],
       "output": []
     },
     {
       "filePath": "Perform Transaction.xaml",
-      "uniqueId": "4b0027c4-7e40-4347-a05a-46f9c401c533",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Register Administrator.xaml",
-      "uniqueId": "02164474-ab42-44c8-979a-3d32f936c995",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Reset Password.xaml",
-      "uniqueId": "a5e0220b-3e4f-441a-8f58-add7f71fee4b",
+      "uniqueId": "4b0027c4-7e40-4347-a05a-46f9c401c534",
       "input": [],
       "output": []
     },
     {
       "filePath": "Transfer Funds.xaml",
-      "uniqueId": "06e15ece-49dd-4064-83a2-8d8db3f1c0a0",
+      "uniqueId": "06e15ece-49dd-4064-83a2-8d8db3f1c0a1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reset Password.xaml",
+      "uniqueId": "a5e0220b-3e4f-441a-8f58-add7f71fee4c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Create Loan.xaml",
+      "uniqueId": "95276480-6983-4a09-b388-7e5094e851ab",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Register Administrator.xaml",
+      "uniqueId": "02164474-ab42-44c8-979a-3d32f936c996",
       "input": [],
       "output": []
     }

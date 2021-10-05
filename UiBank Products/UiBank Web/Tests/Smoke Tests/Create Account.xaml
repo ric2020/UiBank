@@ -56,7 +56,7 @@
         <InArgument x:TypeArguments="x:Int32">[2]</InArgument>
       </uta:VerifyExpressionWithOperator.FirstExpression>
       <uta:VerifyExpressionWithOperator.SecondExpression>
-        <InArgument x:TypeArguments="x:Int32">[1]</InArgument>
+        <InArgument x:TypeArguments="x:Int32">[2]</InArgument>
       </uta:VerifyExpressionWithOperator.SecondExpression>
     </uta:VerifyExpressionWithOperator>
   </Sequence>
