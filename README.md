@@ -1,6 +1,6 @@
 # UiPath Banking Application
 In short, the UiBank.
-Demo2
+Demo
 
 ## Motivation
 Just a demo repository for the UiBank.
